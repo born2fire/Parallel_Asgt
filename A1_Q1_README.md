@@ -1,1 +1,1 @@
-
+This is a simple MPI program that demonstrates parallel processing. Each process initializes MPI, retrieves its rank, total number of processes, and processor name, then prints a message before finalizing the MPI environment.
